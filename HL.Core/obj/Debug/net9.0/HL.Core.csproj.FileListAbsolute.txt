@@ -1,0 +1,11 @@
+C:\Users\hasan\OneDrive\Masaüstü\Hospitallite\HL.Core\bin\Debug\net9.0\HL.Core.deps.json
+C:\Users\hasan\OneDrive\Masaüstü\Hospitallite\HL.Core\bin\Debug\net9.0\HL.Core.dll
+C:\Users\hasan\OneDrive\Masaüstü\Hospitallite\HL.Core\bin\Debug\net9.0\HL.Core.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Hospitallite\HL.Core\obj\Debug\net9.0\HL.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\OneDrive\Masaüstü\Hospitallite\HL.Core\obj\Debug\net9.0\HL.Core.AssemblyInfoInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\Hospitallite\HL.Core\obj\Debug\net9.0\HL.Core.AssemblyInfo.cs
+C:\Users\hasan\OneDrive\Masaüstü\Hospitallite\HL.Core\obj\Debug\net9.0\HL.Core.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\Hospitallite\HL.Core\obj\Debug\net9.0\HL.Core.dll
+C:\Users\hasan\OneDrive\Masaüstü\Hospitallite\HL.Core\obj\Debug\net9.0\refint\HL.Core.dll
+C:\Users\hasan\OneDrive\Masaüstü\Hospitallite\HL.Core\obj\Debug\net9.0\HL.Core.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Hospitallite\HL.Core\obj\Debug\net9.0\ref\HL.Core.dll

@@ -1,0 +1,15 @@
+C:\Users\hasan\OneDrive\Masaüstü\Hospitallite\HL.DataAccess\bin\Debug\net9.0\HL.DataAccess.deps.json
+C:\Users\hasan\OneDrive\Masaüstü\Hospitallite\HL.DataAccess\bin\Debug\net9.0\HL.DataAccess.dll
+C:\Users\hasan\OneDrive\Masaüstü\Hospitallite\HL.DataAccess\bin\Debug\net9.0\HL.DataAccess.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Hospitallite\HL.DataAccess\obj\Debug\net9.0\HL.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\OneDrive\Masaüstü\Hospitallite\HL.DataAccess\obj\Debug\net9.0\HL.DataAccess.AssemblyInfoInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\Hospitallite\HL.DataAccess\obj\Debug\net9.0\HL.DataAccess.AssemblyInfo.cs
+C:\Users\hasan\OneDrive\Masaüstü\Hospitallite\HL.DataAccess\obj\Debug\net9.0\HL.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\Hospitallite\HL.DataAccess\obj\Debug\net9.0\HL.DataAccess.dll
+C:\Users\hasan\OneDrive\Masaüstü\Hospitallite\HL.DataAccess\obj\Debug\net9.0\refint\HL.DataAccess.dll
+C:\Users\hasan\OneDrive\Masaüstü\Hospitallite\HL.DataAccess\obj\Debug\net9.0\HL.DataAccess.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Hospitallite\HL.DataAccess\obj\Debug\net9.0\ref\HL.DataAccess.dll
+C:\Users\hasan\OneDrive\Masaüstü\HospitalLite\HL.DataAccess\bin\Debug\net9.0\HL.Core.dll
+C:\Users\hasan\OneDrive\Masaüstü\HospitalLite\HL.DataAccess\bin\Debug\net9.0\HL.Core.pdb
+C:\Users\hasan\OneDrive\Masaüstü\HospitalLite\HL.DataAccess\obj\Debug\net9.0\HL.DataAccess.csproj.AssemblyReference.cache
+c:\Users\hasan\OneDrive\Masaüstü\HospitalLite\HL.DataAccess\obj\Debug\net9.0\HL.DataA.E53E8171.Up2Date
