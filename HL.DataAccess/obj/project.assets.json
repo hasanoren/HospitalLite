@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\hasan\\OneDrive\\Masaüstü\\HospitalLite\\HL.DataAccess\\HL.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\hasan\\OneDrive\\Masaüstü\\HospitalLite\\HL.DataAccess\\HL.DataAccess.csproj",
       "projectName": "HL.DataAccess",
-      "projectPath": "c:\\Users\\hasan\\OneDrive\\Masaüstü\\HospitalLite\\HL.DataAccess\\HL.DataAccess.csproj",
+      "projectPath": "C:\\Users\\hasan\\OneDrive\\Masaüstü\\HospitalLite\\HL.DataAccess\\HL.DataAccess.csproj",
       "packagesPath": "C:\\Users\\hasan\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\hasan\\OneDrive\\Masaüstü\\HospitalLite\\HL.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\hasan\\OneDrive\\Masaüstü\\HospitalLite\\HL.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "c:\\Users\\hasan\\OneDrive\\Masaüstü\\HospitalLite\\HL.Core\\HL.Core.csproj": {
-              "projectPath": "c:\\Users\\hasan\\OneDrive\\Masaüstü\\HospitalLite\\HL.Core\\HL.Core.csproj"
+            "C:\\Users\\hasan\\OneDrive\\Masaüstü\\HospitalLite\\HL.Core\\HL.Core.csproj": {
+              "projectPath": "C:\\Users\\hasan\\OneDrive\\Masaüstü\\HospitalLite\\HL.Core\\HL.Core.csproj"
             }
           }
         }

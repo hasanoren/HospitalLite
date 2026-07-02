@@ -36,3 +36,4 @@ C:\Users\hasan\OneDrive\Masaüstü\HospitalLite\HL.API\bin\Debug\net9.0\HL.DataA
 C:\Users\hasan\OneDrive\Masaüstü\HospitalLite\HL.API\bin\Debug\net9.0\HL.Business.pdb
 C:\Users\hasan\OneDrive\Masaüstü\HospitalLite\HL.API\bin\Debug\net9.0\HL.Core.pdb
 C:\Users\hasan\OneDrive\Masaüstü\HospitalLite\HL.API\bin\Debug\net9.0\HL.DataAccess.pdb
+C:\Users\hasan\OneDrive\Masaüstü\HospitalLite\HL.API\obj\Debug\net9.0\HL.API.sourcelink.json

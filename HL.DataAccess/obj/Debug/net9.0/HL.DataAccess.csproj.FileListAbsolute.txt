@@ -13,3 +13,4 @@ C:\Users\hasan\OneDrive\Masaüstü\HospitalLite\HL.DataAccess\bin\Debug\net9.0\H
 C:\Users\hasan\OneDrive\Masaüstü\HospitalLite\HL.DataAccess\bin\Debug\net9.0\HL.Core.pdb
 C:\Users\hasan\OneDrive\Masaüstü\HospitalLite\HL.DataAccess\obj\Debug\net9.0\HL.DataAccess.csproj.AssemblyReference.cache
 c:\Users\hasan\OneDrive\Masaüstü\HospitalLite\HL.DataAccess\obj\Debug\net9.0\HL.DataA.E53E8171.Up2Date
+C:\Users\hasan\OneDrive\Masaüstü\HospitalLite\HL.DataAccess\obj\Debug\net9.0\HL.DataAccess.sourcelink.json

@@ -15,3 +15,4 @@ C:\Users\hasan\OneDrive\Masaüstü\HospitalLite\HL.Business\bin\Debug\net9.0\HL.
 C:\Users\hasan\OneDrive\Masaüstü\HospitalLite\HL.Business\bin\Debug\net9.0\HL.DataAccess.pdb
 C:\Users\hasan\OneDrive\Masaüstü\HospitalLite\HL.Business\obj\Debug\net9.0\HL.Business.csproj.AssemblyReference.cache
 c:\Users\hasan\OneDrive\Masaüstü\HospitalLite\HL.Business\obj\Debug\net9.0\HL.Busin.3B78C00F.Up2Date
+C:\Users\hasan\OneDrive\Masaüstü\HospitalLite\HL.Business\obj\Debug\net9.0\HL.Business.sourcelink.json

@@ -9,3 +9,4 @@ C:\Users\hasan\OneDrive\Masaüstü\Hospitallite\HL.Core\obj\Debug\net9.0\HL.Core
 C:\Users\hasan\OneDrive\Masaüstü\Hospitallite\HL.Core\obj\Debug\net9.0\refint\HL.Core.dll
 C:\Users\hasan\OneDrive\Masaüstü\Hospitallite\HL.Core\obj\Debug\net9.0\HL.Core.pdb
 C:\Users\hasan\OneDrive\Masaüstü\Hospitallite\HL.Core\obj\Debug\net9.0\ref\HL.Core.dll
+C:\Users\hasan\OneDrive\Masaüstü\HospitalLite\HL.Core\obj\Debug\net9.0\HL.Core.sourcelink.json

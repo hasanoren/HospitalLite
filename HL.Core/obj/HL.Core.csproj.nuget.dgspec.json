@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\hasan\\OneDrive\\Masaüstü\\HospitalLite\\HL.Core\\HL.Core.csproj": {}
+    "C:\\Users\\hasan\\OneDrive\\Masaüstü\\HospitalLite\\HL.Core\\HL.Core.csproj": {}
   },
   "projects": {
-    "c:\\Users\\hasan\\OneDrive\\Masaüstü\\HospitalLite\\HL.Core\\HL.Core.csproj": {
+    "C:\\Users\\hasan\\OneDrive\\Masaüstü\\HospitalLite\\HL.Core\\HL.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\hasan\\OneDrive\\Masaüstü\\HospitalLite\\HL.Core\\HL.Core.csproj",
+        "projectUniqueName": "C:\\Users\\hasan\\OneDrive\\Masaüstü\\HospitalLite\\HL.Core\\HL.Core.csproj",
         "projectName": "HL.Core",
-        "projectPath": "c:\\Users\\hasan\\OneDrive\\Masaüstü\\HospitalLite\\HL.Core\\HL.Core.csproj",
+        "projectPath": "C:\\Users\\hasan\\OneDrive\\Masaüstü\\HospitalLite\\HL.Core\\HL.Core.csproj",
         "packagesPath": "C:\\Users\\hasan\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\hasan\\OneDrive\\Masaüstü\\HospitalLite\\HL.Core\\obj\\",
+        "outputPath": "C:\\Users\\hasan\\OneDrive\\Masaüstü\\HospitalLite\\HL.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
